@@ -37,3 +37,4 @@ next-env.d.ts
 
 certificates
 # service_key.json
+path/to/service_key.json
