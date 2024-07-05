@@ -36,4 +36,4 @@ yarn-error.log*
 next-env.d.ts
 
 certificates
-service_key.json
+# service_key.json
